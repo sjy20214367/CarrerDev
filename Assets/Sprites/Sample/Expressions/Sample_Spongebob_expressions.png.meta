@@ -1,0 +1,1992 @@
+fileFormatVersion: 2
+guid: 493e4d5a3b1944ad4889ebbd172ffecb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4348102964150555802
+    second: Sample_Spongebob_expressions_0
+  - first:
+      213: 8502095919054540268
+    second: Sample_Spongebob_expressions_1
+  - first:
+      213: 7530137165215020707
+    second: Sample_Spongebob_expressions_2
+  - first:
+      213: 5152099094107195972
+    second: Sample_Spongebob_expressions_3
+  - first:
+      213: -6888749985089383913
+    second: Sample_Spongebob_expressions_4
+  - first:
+      213: -5212929444465401722
+    second: Sample_Spongebob_expressions_5
+  - first:
+      213: -3108891437478010971
+    second: Sample_Spongebob_expressions_6
+  - first:
+      213: 3847260594004142582
+    second: Sample_Spongebob_expressions_7
+  - first:
+      213: -718359977563092384
+    second: Sample_Spongebob_expressions_8
+  - first:
+      213: 9014965862046592968
+    second: Sample_Spongebob_expressions_9
+  - first:
+      213: 1318813664897404313
+    second: Sample_Spongebob_expressions_10
+  - first:
+      213: -1457990798822597364
+    second: Sample_Spongebob_expressions_11
+  - first:
+      213: 5712991811520673649
+    second: Sample_Spongebob_expressions_12
+  - first:
+      213: 8701870785100325471
+    second: Sample_Spongebob_expressions_13
+  - first:
+      213: -4956962516372990539
+    second: Sample_Spongebob_expressions_14
+  - first:
+      213: 5295045056029083605
+    second: Sample_Spongebob_expressions_15
+  - first:
+      213: 630914606636209974
+    second: Sample_Spongebob_expressions_16
+  - first:
+      213: -3355643879054561181
+    second: Sample_Spongebob_expressions_17
+  - first:
+      213: -5097433705894244250
+    second: Sample_Spongebob_expressions_18
+  - first:
+      213: -5922368009712743956
+    second: Sample_Spongebob_expressions_19
+  - first:
+      213: 5889907429531789254
+    second: Sample_Spongebob_expressions_20
+  - first:
+      213: -5197759937602670163
+    second: Sample_Spongebob_expressions_21
+  - first:
+      213: 4303223087918209165
+    second: Sample_Spongebob_expressions_22
+  - first:
+      213: 8112609643260386532
+    second: Sample_Spongebob_expressions_23
+  - first:
+      213: -5291923342485010464
+    second: Sample_Spongebob_expressions_24
+  - first:
+      213: -760361083933317905
+    second: Sample_Spongebob_expressions_25
+  - first:
+      213: -2528506683913623787
+    second: Sample_Spongebob_expressions_26
+  - first:
+      213: 8222858104485298756
+    second: Sample_Spongebob_expressions_27
+  - first:
+      213: -5660915090911025381
+    second: Sample_Spongebob_expressions_28
+  - first:
+      213: 6024790891151740244
+    second: Sample_Spongebob_expressions_29
+  - first:
+      213: 6032164477378937531
+    second: Sample_Spongebob_expressions_30
+  - first:
+      213: -5822706593975793744
+    second: Sample_Spongebob_expressions_31
+  - first:
+      213: 6883877945271802109
+    second: Sample_Spongebob_expressions_32
+  - first:
+      213: 6598539465350647772
+    second: Sample_Spongebob_expressions_33
+  - first:
+      213: -2096880574188961538
+    second: Sample_Spongebob_expressions_34
+  - first:
+      213: 8857314802275552159
+    second: Sample_Spongebob_expressions_35
+  - first:
+      213: -5280052017523346514
+    second: Sample_Spongebob_expressions_36
+  - first:
+      213: -8833848086881910190
+    second: Sample_Spongebob_expressions_37
+  - first:
+      213: 5986944569289534010
+    second: Sample_Spongebob_expressions_38
+  - first:
+      213: -8941934807070922789
+    second: Sample_Spongebob_expressions_39
+  - first:
+      213: -912807483913683441
+    second: Sample_Spongebob_expressions_40
+  - first:
+      213: 8664994014362744912
+    second: Sample_Spongebob_expressions_41
+  - first:
+      213: 2652824801088433829
+    second: Sample_Spongebob_expressions_42
+  - first:
+      213: -5764891101817906479
+    second: Sample_Spongebob_expressions_43
+  - first:
+      213: 3316791159454128843
+    second: Sample_Spongebob_expressions_44
+  - first:
+      213: -2335755748154220016
+    second: Sample_Spongebob_expressions_45
+  - first:
+      213: -2222885349788582662
+    second: Sample_Spongebob_expressions_46
+  - first:
+      213: -359911591807776815
+    second: Sample_Spongebob_expressions_47
+  - first:
+      213: -8738918297216482285
+    second: Sample_Spongebob_expressions_48
+  - first:
+      213: -7706817211515349622
+    second: Sample_Spongebob_expressions_49
+  - first:
+      213: 5521323146020364408
+    second: Sample_Spongebob_expressions_50
+  - first:
+      213: -8495866308272759480
+    second: Sample_Spongebob_expressions_51
+  - first:
+      213: -5445938082076374340
+    second: Sample_Spongebob_expressions_52
+  - first:
+      213: 7160469393169950035
+    second: Sample_Spongebob_expressions_53
+  - first:
+      213: -3232784435845891571
+    second: Sample_Spongebob_expressions_54
+  - first:
+      213: 1678182685865251668
+    second: Sample_Spongebob_expressions_55
+  - first:
+      213: 5910249230576129480
+    second: Sample_Spongebob_expressions_56
+  - first:
+      213: -2600789705946877305
+    second: Sample_Spongebob_expressions_57
+  - first:
+      213: 8982019386030010523
+    second: Sample_Spongebob_expressions_58
+  - first:
+      213: 1769369434958560463
+    second: Sample_Spongebob_expressions_59
+  - first:
+      213: 2330000621700731
+    second: Sample_Spongebob_expressions_60
+  - first:
+      213: -3864604083186641270
+    second: Sample_Spongebob_expressions_61
+  - first:
+      213: 799908461018157938
+    second: Sample_Spongebob_expressions_62
+  - first:
+      213: 2980937397284391904
+    second: Sample_Spongebob_expressions_63
+  - first:
+      213: -8101663455532335944
+    second: Sample_Spongebob_expressions_64
+  - first:
+      213: -9010737677180323164
+    second: Sample_Spongebob_expressions_65
+  - first:
+      213: 4694218018230960448
+    second: Sample_Spongebob_expressions_66
+  - first:
+      213: 6358824934920699656
+    second: Sample_Spongebob_expressions_67
+  - first:
+      213: 1997877388561861127
+    second: Sample_Spongebob_expressions_68
+  - first:
+      213: -933863284678957410
+    second: Sample_Spongebob_expressions_69
+  - first:
+      213: 5565702001038276176
+    second: Sample_Spongebob_expressions_70
+  - first:
+      213: -2703794444381108418
+    second: Sample_Spongebob_expressions_71
+  - first:
+      213: -7167025701162274678
+    second: Sample_Spongebob_expressions_72
+  - first:
+      213: 7709313025605701755
+    second: Sample_Spongebob_expressions_73
+  - first:
+      213: 9130472634686139112
+    second: Sample_Spongebob_expressions_74
+  - first:
+      213: 7367687670378572420
+    second: Sample_Spongebob_expressions_75
+  - first:
+      213: -846311570592402408
+    second: Sample_Spongebob_expressions_76
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 621
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66babfe246f68a3c0800000000000000
+      internalID: -4348102964150555802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 621
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced4b8d31338df570800000000000000
+      internalID: 8502095919054540268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 621
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6bb9afadb608860800000000000000
+      internalID: 7530137165215020707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 621
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a0fdf34deef7740800000000000000
+      internalID: 5152099094107195972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_4
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 621
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7121540036e3660a0800000000000000
+      internalID: -6888749985089383913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_5
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 621
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680277f1a44f7a7b0800000000000000
+      internalID: -5212929444465401722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_6
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 621
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af9edf85bffad4d0800000000000000
+      internalID: -3108891437478010971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_7
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 621
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9a9f76027346530800000000000000
+      internalID: 3847260594004142582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_8
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 621
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a8e7c086fd706f0800000000000000
+      internalID: -718359977563092384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_9
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 621
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf6f8d20b79b1d70800000000000000
+      internalID: 9014965862046592968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_10
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 621
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d04257a0e5d4210800000000000000
+      internalID: 1318813664897404313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_11
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 621
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d146ed71d24cbe0800000000000000
+      internalID: -1457990798822597364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_12
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 621
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177b76aa8cf984f40800000000000000
+      internalID: 5712991811520673649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_13
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 621
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f522143ef5143c870800000000000000
+      internalID: 8701870785100325471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_14
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 621
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b559aebad4553bb0800000000000000
+      internalID: -4956962516372990539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_15
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 621
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d74d429c67cb7940800000000000000
+      internalID: 5295045056029083605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 536
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6371824fd7571c800800000000000000
+      internalID: 630914606636209974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_17
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 536
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3603d34cbab5e61d0800000000000000
+      internalID: -3355643879054561181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_18
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 536
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66012164d074249b0800000000000000
+      internalID: -5097433705894244250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_19
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 536
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce94fe75ca58fcda0800000000000000
+      internalID: -5922368009712743956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_20
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 536
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c72d21e9972db150800000000000000
+      internalID: 5889907429531789254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_21
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 536
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1bf6b20e8ddd7b0800000000000000
+      internalID: -5197759937602670163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_22
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 536
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88df98599e18bb30800000000000000
+      internalID: 4303223087918209165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_23
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 536
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec91f3fc77c59070800000000000000
+      internalID: 8112609643260386532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_24
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 536
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7459002cf4f86b0800000000000000
+      internalID: -5291923342485010464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_25
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 536
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4af1b6f97a275f0800000000000000
+      internalID: -760361083933317905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_26
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 536
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517a02d4190f8ecd0800000000000000
+      internalID: -2528506683913623787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_27
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 536
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442c94421e57d1270800000000000000
+      internalID: 8222858104485298756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_28
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 536
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17a996b7b36071b0800000000000000
+      internalID: -5660915090911025381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_29
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 536
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dcb11156b5c9350800000000000000
+      internalID: 6024790891151740244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_30
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 536
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2c6e4e1ad86b350800000000000000
+      internalID: 6032164477378937531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_31
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 536
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b78fbae337913fa0800000000000000
+      internalID: -5822706593975793744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 451
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df85215d482788f50800000000000000
+      internalID: 6883877945271802109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_33
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 451
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf0f94eea8b29b50800000000000000
+      internalID: 6598539465350647772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_34
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 451
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0cc0f3a3266e2e0800000000000000
+      internalID: -2096880574188961538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_35
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 451
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b817572e08bea70800000000000000
+      internalID: 8857314802275552159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_36
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 451
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3bfeb3aac79b6b0800000000000000
+      internalID: -5280052017523346514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_37
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 451
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252c3adf7fdd76580800000000000000
+      internalID: -8833848086881910190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_38
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 451
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ae4769d56e51350800000000000000
+      internalID: 5986944569289534010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_39
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 451
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd726db5badd7e380800000000000000
+      internalID: -8941934807070922789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_40
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 451
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0eb10dfd6e0553f0800000000000000
+      internalID: -912807483913683441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_41
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 451
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0583afe952e304870800000000000000
+      internalID: 8664994014362744912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_42
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 451
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aee830f91ab0d420800000000000000
+      internalID: 2652824801088433829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_43
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 451
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da555b261efeffa0800000000000000
+      internalID: -5764891101817906479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_44
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 451
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca5b658cfb970e20800000000000000
+      internalID: 3316791159454128843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_45
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 451
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012e03db58ab59fd0800000000000000
+      internalID: -2335755748154220016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_46
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 451
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc7e6d3d89b621e0800000000000000
+      internalID: -2222885349788582662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_47
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 451
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d780cb6056510bf0800000000000000
+      internalID: -359911591807776815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 366
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31400450c1029b680800000000000000
+      internalID: -8738918297216482285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_49
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 366
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85d2ce1492eb0590800000000000000
+      internalID: -7706817211515349622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_50
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 366
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870afa8e52eaf9c40800000000000000
+      internalID: 5521323146020364408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_51
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 366
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d513c0b9e981a80800000000000000
+      internalID: -8495866308272759480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_52
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 366
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbac01d0b242c64b0800000000000000
+      internalID: -5445938082076374340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_53
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 366
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355a3fca9f81f5360800000000000000
+      internalID: 7160469393169950035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_54
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 366
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a7ef10fa7d223d0800000000000000
+      internalID: -3232784435845891571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_55
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 366
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453953be24a1a4710800000000000000
+      internalID: 1678182685865251668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_56
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 366
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c514828c5c650250800000000000000
+      internalID: 5910249230576129480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_57
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 366
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7823b81ca8328ebd0800000000000000
+      internalID: -2600789705946877305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_58
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 366
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90bdf5fa0b86ac70800000000000000
+      internalID: 8982019386030010523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_59
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 366
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc732760201e8810800000000000000
+      internalID: 1769369434958560463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_60
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 366
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76026b8f17480000800000000000000
+      internalID: 2330000621700731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_61
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 366
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86d228df0b2e5ac0800000000000000
+      internalID: -3864604083186641270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_62
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 366
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27311d7d188d91b00800000000000000
+      internalID: 799908461018157938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_63
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 281
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb40d6e4ca6e5920800000000000000
+      internalID: 2980937397284391904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_64
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 281
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc3b3bf20c119f80800000000000000
+      internalID: -8101663455532335944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_65
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 281
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa3073d2dd63f280800000000000000
+      internalID: -9010737677180323164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_66
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 281
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04105e2aa66352140800000000000000
+      internalID: 4694218018230960448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_67
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 281
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f38da76951f3850800000000000000
+      internalID: 6358824934920699656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_68
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 281
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ac30256e2e9bb10800000000000000
+      internalID: 1997877388561861127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_69
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 281
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e966ee75a404a03f0800000000000000
+      internalID: -933863284678957410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_70
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 281
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05631994b785d3d40800000000000000
+      internalID: 5565702001038276176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_71
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 281
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e374df437413a7ad0800000000000000
+      internalID: -2703794444381108418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_72
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 281
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80b02ae81c998c90800000000000000
+      internalID: -7167025701162274678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_73
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 281
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b701581e95bfcfa60800000000000000
+      internalID: 7709313025605701755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_74
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 281
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea64e56c74f5be70800000000000000
+      internalID: 9130472634686139112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_75
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 281
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48aa0f886e84f3660800000000000000
+      internalID: 7367687670378572420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_Spongebob_expressions_76
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 280
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81479894c1c4144f0800000000000000
+      internalID: -846311570592402408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
